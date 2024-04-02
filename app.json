@@ -1,0 +1,46 @@
+{
+  "id": "00241670-c1d7-41a0-a333-a1540f714feb",
+  "name": "PersonalizacionesDRV",
+  "publisher": "MarquesMe",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+
+    {
+      "id": "410f47b1-8f80-4a06-aaf2-149c773198b8",
+      "name": "Dynaway EAM",
+      "publisher": "Dynaway A/S",
+      "version": "2401.0.673.0"
+    },{
+      "id": "03d1539e-0177-4e39-ac09-653cac60ae5e",
+      "name": "Módulo de alquiler",
+      "publisher": "Marqués",
+      "version": "1.0.0.25"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "23.0.0.0",
+  "idRanges": [
+    {
+      "from": 50250,
+      "to": 50349
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  },
+  "features": [
+    "TranslationFile"
+  ],
+  "runtime": "12.0"
+ 
+}

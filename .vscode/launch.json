@@ -1,0 +1,20 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "DRV - PreProduccion",
+            "request": "launch",
+            "type": "al",
+            "tenant": "99122b83-daee-40ca-bfa5-14f4b844654a",
+            "environmentType": "Sandbox",
+            "environmentName": "PreProduccion",
+         //   "startupObjectId": 50360,
+            "startupObjectType": "Page",
+            "breakOnError": true,
+            "launchBrowser": true,
+            "enableLongRunningSqlStatements": true,
+            "enableSqlInformationDebugger": true,
+            "schemaUpdateMode": "ForceSync",
+        }
+    ]
+}
