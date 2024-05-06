@@ -7,7 +7,7 @@
             "type": "al",
             "tenant": "99122b83-daee-40ca-bfa5-14f4b844654a",
             "environmentType": "Sandbox",
-            "environmentName": "PreProduccion",
+            "environmentName": "Pruebas",
          //   "startupObjectId": 50360,
             "startupObjectType": "Page",
             "breakOnError": true,

@@ -1078,6 +1078,31 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table MBG 50253 Hist Cabecera Compra - Field Área - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Table 1570415015 - Field 743017303 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Código</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MBG 50256 Componentes - Field Código - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1570415015 - Field 2615446671 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Descripción</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MBG 50256 Componentes - Field Descripción - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1570415015 - Field 937125143 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No Producto</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MBG 50256 Componentes - Field No Producto - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1570415015 - Field 3817351971 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No Serie</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MBG 50256 Componentes - Field No Serie - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1570415015 - Field 1500409770 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Table</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MBG 50256 Componentes - Field Table - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Table 1009327589 - Field 302729443 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Libro Amortizacion AF</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -1189,7 +1214,7 @@
           <note from="Xliff Generator" annotates="general" priority="3">Table MBG HistoricoMovConta - Field Tipo procedencia mov. - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 997681463 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Listado Hist Venta</source>
+          <source>Listado Hist Compra</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page MBG 50253 Listado Hist compra - Property Caption</note>
         </trans-unit>
@@ -1218,10 +1243,10 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page MBG 50253 Listado Hist Venta - Control No - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Page 1370965054 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Revisiones pendientes</source>
+        <trans-unit id="Page 465328843 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Componentes List</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page MBG AF Revisiones - Property Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MBG 50258 Componentes List - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 1009327589 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>MBG Configuracion Procesos</source>
@@ -1234,9 +1259,54 @@
           <note from="Xliff Generator" annotates="general" priority="3">Page MBG Historico Compra - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 3692043722 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>MBG Historico venta</source>
+          <source>Historico venta</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page MBG Historico venta - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 363970498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Historico Mov. Cont.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MBG50250 Historico Mov. Cont. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2660398549 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Necesidades de Compra</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MBG50259NecesidadesCompraList - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2660398549 - Control 3940363844 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entradas Previstas</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MBG50259NecesidadesCompraList - Control entradasPrevistasTot - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2660398549 - Control 1622009951 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Necesidades de Compra</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MBG50259NecesidadesCompraList - Control necesidadesCompraTot - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2660398549 - Control 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MBG50259NecesidadesCompraList - Control No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2660398549 - Control 3670090861 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Salidas Previstas</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MBG50259NecesidadesCompraList - Control salidasPrevistasTot - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 399314841 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Units List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Units List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 399314841 - Control 3004954119 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies a code for the unit of measure that is shown on the item and resource cards where it is used.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Units List - Control Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 399314841 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies a description of the unit of measure.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Units List - Control Description - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 2235989433 - Control 2348294762 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4178721393">
           <source>Existencia valor cero</source>
@@ -1258,6 +1328,11 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension MBG 50252 Fixed Asset Card - Control Pendiente revisión - Property Caption</note>
         </trans-unit>
+        <trans-unit id="PageExtension 1319364526 - Control 465328843 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3133908286">
+          <source>Componentes</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension MBG 50252 Fixed Asset Card - Control MBG 50258 Componentes List - Property Caption</note>
+        </trans-unit>
         <trans-unit id="PageExtension 594915321 - Control 3966317069 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1580859378">
           <source>Indica si el activo fijo está pendiente de revisión</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -1268,15 +1343,55 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension MBG 50253 Resource card - Control Pendiente revisión - Property Caption</note>
         </trans-unit>
-        <trans-unit id="PageExtension 1588888514 - Control 739346273 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4105562392">
-          <source>General Ledger</source>
+        <trans-unit id="PageExtension 594915321 - Control 465328843 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1580859378">
+          <source>Componentes</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">PageExtension MBG Rol finance 50255   - Control Group - Property Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension MBG 50253 Resource card - Control MBG 50258 Componentes List - Property Caption</note>
         </trans-unit>
-        <trans-unit id="PageExtension 1588888514 - Control 1139818134 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4105562392">
-          <source>Revisiones pendientes</source>
+        <trans-unit id="PageExtension 2531598570 - Control 3966317069 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2419260376">
+          <source>Indica si el activo fijo está pendiente de revisión</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">PageExtension MBG Rol finance 50255   - Control revisionesPendientes - Property Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension MBG 50254 DAM - Control Pendiente revisión - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2531598570 - Control 3966317069 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2419260376">
+          <source>Pendiente revisión</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension MBG 50254 DAM - Control Pendiente revisión - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2531598570 - Control 465328843 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2419260376">
+          <source>Componentes</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension MBG 50254 DAM - Control MBG 50258 Componentes List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1903921537 - Control 3966317069 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 594930339">
+          <source>Libro diario Activo Compra Máquina</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension MBG 50259 Configuración AF - Control Pendiente revisión - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1903921537 - Control 543111262 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 594930339">
+          <source>Sección diario activo Máquina</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension MBG 50259 Configuración AF - Control Sección diario activo Maquina - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1079480976 - Control 739346273 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3032367115">
+          <source>Pendientes de revisión</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension MBG Rol accountant 50255   - Control Group - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1079480976 - Control 311975572 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3032367115">
+          <source>Activos Fijos</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension MBG Rol accountant 50255   - Control AFPend - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1079480976 - Control 2573257897 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3032367115">
+          <source>Activos de mantenimiento</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension MBG Rol accountant 50255   - Control DAMPend - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1079480976 - Control 2478683797 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3032367115">
+          <source>Recursos</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension MBG Rol accountant 50255   - Control RecPend - Property Caption</note>
         </trans-unit>
         <trans-unit id="TableExtension 1953440562 - Field 2348294762 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3276313895">
           <source>Existencia valor cero</source>
@@ -1297,6 +1412,56 @@
           <source>Pendiente revisión</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">TableExtension MBG 50252 Recurso - Field Pendiente revisión - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3511878969 - Field 3966317069 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 845890092">
+          <source>Pendiente revisión</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension MBG 50253 Activo - Field Pendiente revisión - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3617651431 - Field 3234955606 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1920046521">
+          <source>Unidad Promocional</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension MBG 50254 Unidad Medida - Field Unidad Promocional - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2371797748 - Field 3234955606 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1568817742">
+          <source>Unidad Promocional</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension MBG 50254 Unidad Medida Item - Field Unidad Promocional - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1487942174 - Field 1812855211 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2574427010">
+          <source>Cantidad Promocional</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension MBG 50256 salesline - Field Cantidad Promocional - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1487942174 - Field 27307132 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2574427010">
+          <source>Promoción</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension MBG 50256 salesline - Field Promoción - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1487942174 - Field 3234955606 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2574427010">
+          <source>Unidad Promocional</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension MBG 50256 salesline - Field Unidad Promocional - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 542207782 - Field 1812855211 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2079186865">
+          <source>Cantidad Promocional</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension MBG 50257 sales inv line - Field Cantidad Promocional - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 542207782 - Field 3234955606 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2079186865">
+          <source>Unidad Promocional</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension MBG 50257 sales inv line - Field Unidad Promocional - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3944745950 - Field 2321168941 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3400326196">
+          <source>Libro diario Activo Compra Maq</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension MBG 50258 Configuracion AF - Field Libro diario Activo Compra Maq - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3944745950 - Field 2801019858 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3400326196">
+          <source>Seccion diario activo Maquina</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension MBG 50258 Configuracion AF - Field Seccion diario activo Maquina - Property Caption</note>
         </trans-unit>
       </group>
     </body>

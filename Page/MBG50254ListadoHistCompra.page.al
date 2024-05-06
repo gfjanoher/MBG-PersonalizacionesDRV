@@ -1,10 +1,12 @@
 page 50254 "MBG 50253 Listado Hist compra"
 {
     ApplicationArea = All;
-    Caption = 'Listado Hist Venta';
+    Caption = 'Listado Hist Compra';
     SourceTable = "MBG 50253 Hist Cabecera compra";
     Editable = FALSE;
     InsertAllowed = false;
+    UsageCategory = Lists;
+    PageType = List;
     DeleteAllowed = false;
     layout
     {

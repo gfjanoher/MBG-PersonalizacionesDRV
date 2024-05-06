@@ -4,6 +4,8 @@ page 50253 "MBG 50253 Listado Hist Venta"
     Caption = 'Listado Hist Venta';
     SourceTable = "MBG 50252 Hist Cabecera Venta";
     Editable = FALSE;
+    UsageCategory = Lists;
+    PageType = List;
     InsertAllowed = false;
     DeleteAllowed = false;
     layout

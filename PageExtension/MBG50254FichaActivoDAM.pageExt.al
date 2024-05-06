@@ -1,4 +1,4 @@
-pageextension 50252 "MBG 50252 Fixed Asset Card" extends "Fixed Asset Card"
+pageextension 50254 "MBG 50254 DAM" extends "DAM Asset Card"
 {
     layout
     {
@@ -17,7 +17,7 @@ pageextension 50252 "MBG 50252 Fixed Asset Card" extends "Fixed Asset Card"
             {
                 ApplicationArea = All;
                 Caption = 'Componentes';
-                SubPageLink = "Código" = FIELD("No."), Table = const(5600);
+                SubPageLink = "Código" = FIELD("No."), Table = const(70479525);
             }
         }
     }

@@ -8,7 +8,7 @@ table 50255 "MBG Configuracion Procesos"
         }
         field(2; "Libro Amortizacion AF"; code[20])
         {
-            // TableRelation = "MBG Procesos".Code;
+            //   TableRelation = "MBG Procesos".Code;
         }
     }
 }

@@ -3,6 +3,8 @@ page 50250 "MBG50250 Historico Mov. Cont."
 {
     PageType = List;
     ApplicationArea = all;
+    UsageCategory = Lists;
+    Caption = 'Historico Mov. Cont.';
     SourceTable = "MBG HistoricoMovConta";
     layout
     {

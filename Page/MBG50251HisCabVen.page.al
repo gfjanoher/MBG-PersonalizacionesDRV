@@ -1,7 +1,7 @@
 page 50251 "MBG Historico venta"
 {
     ApplicationArea = All;
-    Caption = 'MBG Historico venta';
+    Caption = 'Historico venta';
     UsageCategory = Administration;
     PageType = card;
     SourceTable = "MBG 50252 Hist Cabecera Venta";
